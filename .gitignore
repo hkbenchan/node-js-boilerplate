@@ -3,4 +3,4 @@ public/bower_components
 .sass-cache/
 npm-debug.log
 .DS_Store
-build.sh
+#build.sh
